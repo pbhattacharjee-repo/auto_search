@@ -1,7 +1,7 @@
 # auto_search
 
 This repository contains the package for an autonomous controller that allows a turtlebot to explore a maze. This controller can be used in a webots simulation by running the following commands:<br />
-cd \ros2ws<br />
+cd ros2_ws/<br />
 source /opt/ros/humble/setup.bash<br />
 export WEBOTS_HOME=/mnt/c/Program\ Files/Webots <br />
 <br />
