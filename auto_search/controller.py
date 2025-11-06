@@ -6,8 +6,6 @@ from nav_msgs.msg import Odometry
 from rclpy.qos import ReliabilityPolicy, QoSProfile
 import math
 
-klm= 0
-
 # Constants
 LINEAR_VEL = 0.7
 STOP_DISTANCE = 0.2
